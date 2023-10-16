@@ -36,6 +36,7 @@ The implementation is located in crypto_attack.py.
    ```bash 
     python vigener_cipher_slogan.py
    ```
+   
 5. Run the crypto attack
    ```bash 
     python crypto_attack.py 
