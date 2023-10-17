@@ -24,6 +24,7 @@ The implementation is located in crypto_attack.py.
     git clone https://github.com/Sergeyais/Vigener_Cipher
     cd Vigener_Cipher
     ```
+   
 2. Run the Vigenère cipher for open text
    ```bash 
     python vigener_cipher_open_text.py
