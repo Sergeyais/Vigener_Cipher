@@ -33,6 +33,7 @@ The implementation is located in crypto_attack.py.
    ```bash
     python bvigener_cipher_close_text.py
    ``` 
+   
 4. Run the Vigenère cipher for slogan
    ```bash 
     python vigener_cipher_slogan.py
