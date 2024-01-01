@@ -30,7 +30,7 @@ The implementation is located in crypto_attack.py.
    ```
 3. Run the Vigenère cipher for close text
    ```bash
-    python bvigener_cipher_close_text.py
+    python vigener_cipher_close_text.py
    ```
 4. Run the Vigenère cipher for slogan
    ```bash 
